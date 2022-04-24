@@ -1,6 +1,6 @@
 <?php
 
 include("index.html");
-include("login.html");
+include("login2.html");
 
 ?>
